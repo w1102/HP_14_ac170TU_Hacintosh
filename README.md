@@ -1,4 +1,4 @@
-# HP 14ac170tu Hackintosh - Macos Monterey - OpenCore
+# HP 14ac170tu Hackintosh - Macos Monterey
 
 ### Hardware
 * CPU: Broadwell i5 5200U 2.2Ghz
